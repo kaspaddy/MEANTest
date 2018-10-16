@@ -1,5 +1,7 @@
 # AlfredMEAN
 
+This is test MEAN Project (Angular6, NodeJs, Express, MongoDB)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
